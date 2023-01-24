@@ -1,0 +1,7 @@
+The function myMean calculates the mean of a given vector assignment2. The mean is calculated by summing up all the elements of the vector and dividing by the number of elements in the vector.
+When you call the function myMean(assignment2), it returns the mean of the data in the vector assignment2 which is
+
+>myMean(assignment2)
+> [1] 19.25
+
+So, the mean of the data in the vector assignment2 is 19.25.
